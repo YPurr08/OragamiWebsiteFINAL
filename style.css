@@ -1,0 +1,107 @@
+body {
+    background-color:#eeeeee;
+    border: double;
+}
+
+.Camel{
+    text-align: center;
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin: 80px;
+}
+
+.CamelImage{
+    background-color: rgb(209, 255, 253);
+    border:solid
+    rgb(5, 108, 134)
+}
+
+
+.Chameleon{
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-left:680px;
+}
+.ChameleonImage{
+    background-color: rgb(209, 255, 253);
+    border:solid
+    rgb(5, 108, 134)
+}
+
+.Pigeon{
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-left: 1280px;
+}
+.PigeonImage{
+    background-color: rgb(209, 255, 253);
+    border:solid
+    rgb(5, 108, 134)
+}
+
+.Panda{
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-left: 380px;
+}
+.PandaImage{
+    background-color: rgb(209, 255, 253);
+    border:solid
+    rgb(5, 108, 134)
+}
+
+.Cicada{
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 500px;
+    border: solid;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-left: 970px;
+}
+.CicadaImage{
+    background-color: rgb(209, 255, 253);
+    border:solid
+    rgb(5, 108, 134)
+}
+
+.menu{
+    background-color: rgb(173, 214, 214);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url("Background.jfif");
+    text-align: center;
+}
+
+
+p,h2{
+    text-align: center;
+}
+
+
